@@ -1,0 +1,21 @@
+{
+  "format": "gw2x-remote-v1",
+  "generated_utc": "2026-10-01T03:28:48+00:00",
+  "files": {
+    "core": {
+      "file": "CORE.enc",
+      "sha256": "d6dd93ed69ad063e6cf3d7d8d1f59a0403271bfe4d33d802f53f4b1990bf9d92",
+      "signature": "biUb/QICrY04pAWhU7K/lnCGmo75xGRzKg0ZGRoQJeQWBcCub1jhpeg4pRbadwqBuyhYVolnOd7CnrB2MZroAA==",
+      "plaintext_sha256": "65eaf8426d3e1e017e248cbeabadc25ed28b1b576044e0a0c58a94631b8d4843",
+      "plaintext_size": 6759
+    },
+    "user": {
+      "file": "USER.enc",
+      "sha256": "268690d640ab21b9dcae38ddb7e7e4518cb72688cc83ca232b24925fc8c9ea19",
+      "signature": "T7nJNIbNjq67WBt9eewLb+NiCyFvx1Jl6S0qCjuxR+xs3Son8gpSWcXh3mgDdVcAMriNMppmpq2qeQ/DImfWDQ==",
+      "plaintext_sha256": "004335603cd7afcb4c385e355f69c4685152862d1649675f32e839e722e4d6a6",
+      "plaintext_size": 12807
+    }
+  },
+  "manifest_signature": "BS/+XuW8zeIb5X6tL81sS0CL9uYV6rsmpuJVGU7tl1FNkA/wIuURdUYgWwunXufB6kJsxQ4EDmb+4GvoE8K5CA=="
+}
