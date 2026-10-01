@@ -1,21 +1,25 @@
 {
-  "format": "gw2x-remote-v1",
-  "generated_utc": "2026-10-01T15:48:15+00:00",
+  "format": "gw2x-remote-data-v2",
+  "generated_utc": "2026-10-01T16:17:37+00:00",
   "files": {
     "core": {
       "file": "CORE.enc",
-      "sha256": "ace5f11366492264c86a26aa9bf28ac1e7f231c5f319362c81859bfb86fd3828",
-      "signature": "i2KgFLnVdQe8JryJqdEoo/LxRj3W5E0vyaVBMwLf89Ibc8VXLJTHRrHIi3+JJUezmfFhYGrHvdy1JVzuSclxDA==",
-      "plaintext_sha256": "65eaf8426d3e1e017e248cbeabadc25ed28b1b576044e0a0c58a94631b8d4843",
-      "plaintext_size": 6759
+      "kind": "data",
+      "sha256": "a8e49fbb20b9c3a509271421c5e77cd23e2bbcd730f10e98aca281947ea9947e",
+      "signature": "V7lU5yyjAaUz9YH4tr1SX3XRK1nTlp4tdGC8aJ4yHbm61fK93HUZ9TB/uj6QRge1R9ifUcJLKqG07wvKo4NVCg==",
+      "plaintext_sha256": "cc6e6351a9345d0ac28e6cdef97dc85dbd41b24631272bcecb2db48bb46291cc",
+      "plaintext_size": 1786,
+      "value_count": 70
     },
     "user": {
       "file": "USER.enc",
-      "sha256": "e89ba93af9b92bb834d5575f597a4f452db040a5bb3eb344cf162349339bcc9b",
-      "signature": "StLxMM66KX/FUJYaQMj0eOxZVV/YQArTJD0Je/OhqWALcazNEd19ffmXUpoeukfhPtuPjLchL+3+SuewM3N4BQ==",
-      "plaintext_sha256": "fd3ec43460d3550aee9931923b3af3570b2ade3f83418458b222af63b6fd0a51",
-      "plaintext_size": 12792
+      "kind": "data",
+      "sha256": "1e7e3386ce271abac667a855ccffef094740f6b8de18e286f2febf1e5b56c0b9",
+      "signature": "80ZTgXRDCiORyyywujvOo2v2mtAvtYuym+tJCLrrjvT8Ty3DMhNamJOIk0+hLna5gGqxwv5WdDMBdRM9frVpCQ==",
+      "plaintext_sha256": "d90611edb2dbc704736f5c14d7db276090981afeb2e526eb2f8a08dc5eae71b7",
+      "plaintext_size": 4439,
+      "value_count": 2
     }
   },
-  "manifest_signature": "oKeoDt3qsTkuJpO/c7tv7V/jLo/9J1d6mbLPslbYXE0Guk6KpnzH3bWIFmTvby1xE8XpzT2aa4OvFylLxzEqBg=="
+  "manifest_signature": "+zI0YFqQkiJcybRtLHSvoutfAz9DMlt82pcdesmZauz9WEtvRvp0DzuH5zIvByNsU/iKGfg4om6Pmay7owqVCQ=="
 }
