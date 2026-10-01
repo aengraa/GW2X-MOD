@@ -1,21 +1,21 @@
 {
   "format": "gw2x-remote-v1",
-  "generated_utc": "2026-10-01T16:44:30+00:00",
+  "generated_utc": "2026-10-01T17:43:27+00:00",
   "files": {
     "core": {
       "file": "CORE.enc",
-      "sha256": "561ccd28bdec7cb7b0a6550abc0625447409015c8c58b4f48a44c117d6d22efd",
-      "signature": "PREHzFvfXohQd8KAv+/16mmDffKVYv9+4ArKM3Mkg6o8LTyoRfkQqilGgpy4+dKyx8VLT/zbupooneU9+uFTDA==",
+      "sha256": "b736d141180c8f674c202b27ad24dae948f210f702ce99fb7c8cd90361751b17",
+      "signature": "9e54PbMjD88TlnwJJ/OV+vIAB1KpJjl+mWud0T2/xM4753hXuIVAf4fOKooFD2hfuoTyhPam5MmBpjN3JPj2Bw==",
       "plaintext_sha256": "65eaf8426d3e1e017e248cbeabadc25ed28b1b576044e0a0c58a94631b8d4843",
       "plaintext_size": 6759
     },
     "user": {
       "file": "USER.enc",
-      "sha256": "2a0f7b6483432717d170aa0e380d0f1260c29df0fcd62b196b4bcd6de365a2b1",
-      "signature": "ZP/IcrCimfGcQ04aww/fWSPH/eaYFRmfbFwMwCL4L2Yv0ih+/Y6GUP7rSYTAKlpEkFL3xduN1J2pJLTX4X+nDQ==",
-      "plaintext_sha256": "3bb58ae02422b1fc87be9e23558c40e22c25b9e233763b1fb859cbd40408ce9e",
-      "plaintext_size": 12807
+      "sha256": "aa00bc3b24f5c652cbac69fe8b5289a04ff63b0b4fe3acaefcac3d06a369e494",
+      "signature": "O+F2JswXWZAbQUZL6wx0Jp399UHSXU/9JlMsS2tJiVC1euOTiYyDt7PamQtWE3pVmJho6sLhHJ0hQ14/m49oBw==",
+      "plaintext_sha256": "fd3ec43460d3550aee9931923b3af3570b2ade3f83418458b222af63b6fd0a51",
+      "plaintext_size": 12792
     }
   },
-  "manifest_signature": "MpBA0NjFrkXv5KjQ4PFktJuM29XQI+vaOuie6spk/TJ6iKTRVItbS6z2lPgRgOqYsWLNBIMZ4XyAdy2IxRcMAg=="
+  "manifest_signature": "KWSqTIS6u/jLT4Yf2gAwJsa74n20bw189+QuYz916vlAySvuuci7d9lWmGJYshPpflWihIw6zjpyDH0Mfr+tBw=="
 }
